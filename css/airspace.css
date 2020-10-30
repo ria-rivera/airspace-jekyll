@@ -58,8 +58,9 @@ a:active {
 }
 .section-title p {
   font-family: 'Volkhov', serif;
+  font-size: 20px;
   font-style: italic;
-  color: #666;
+  color: #74777a;
 }
 /*--
 	Header Start
@@ -258,7 +259,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
+  color: #767676;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
